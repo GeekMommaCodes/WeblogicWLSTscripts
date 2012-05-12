@@ -1,4 +1,4 @@
-connect('whisper.wasp','whisper.wasp','t3://localhost:7001')
+connect('username','userpass','t3://localhost:7001')
 domainRuntime()
 cd('AppRuntimeStateRuntime/AppRuntimeStateRuntime')
 #cd('ServerRuntimes')
